@@ -1,0 +1,10 @@
+Line one
+Line two
+Line three
+Line four
+
+Command x deletes character under cursor.
+Command . redo last command.
+Command dd deletes line.
+Command >G increases identation from current line until end of file.
+Command <G decreases identation from current line until end of file.
